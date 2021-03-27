@@ -1,0 +1,7 @@
+#please install/load the following libraries
+
+library(stringr)
+library(tm)
+library(stringdist)
+library(wordcloud)
+library(fpc)

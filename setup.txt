@@ -1,0 +1,12 @@
+Setup
+
+1. Download the data, code and RData files folders
+
+2. Install all libraries specified in requirements.txt
+
+3. Set wd to data (for text_cleaning.R) or RData files (for all R files except text_cleaning) folder
+- you can skip the text_cleaning part and use the RData files right away
+
+4. Select category that should be executed
+
+5. Run R files
